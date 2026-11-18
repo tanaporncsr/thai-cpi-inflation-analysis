@@ -1,0 +1,1 @@
+# thai-cpi-inflation-analysis
