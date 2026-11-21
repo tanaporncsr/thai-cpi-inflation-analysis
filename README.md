@@ -62,7 +62,7 @@ An interactive Tableau dashboard was developed to present the analysis of Thaila
 
 **Dashboard Preview**
 
-![Tableau Dashboard Screenshot](images/dashboard-preview.png)
+![Tableau Dashboard Screenshot](images/dashboard-preview.jpg)
 
 ## Limitations
 
